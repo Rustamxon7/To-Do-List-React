@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-<!-- [Live Demo Link](https://rustamxon7.github.io/Math-Magicians/) -->
+[Live Demo Link](https://rustamxon7.github.io/To-Do-List-React/)
 
 ## Available Scripts
 

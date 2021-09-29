@@ -2,7 +2,7 @@ import React from 'react';
 
 const NotMatch = () => (
   <div>
-    <h3></h3>
+    <spam />
   </div>
 );
 export default NotMatch;

@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { FaPlusCircle } from 'react-icons/fa';
 import { IconContext } from 'react-icons';
 
-
 const InputTodo = (props) => {
   const [inputText, setInputText] = useState({
     title: '',

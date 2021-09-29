@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="1439" alt="Screen Shot 2021-09-29 at 12 48 12 PM" src="https://user-images.githubusercontent.com/69011963/135225567-de4660d4-d57c-4990-8e51-51cdc858c0a6.png">
+
 ## Live Demo
 
 [Live Demo Link](https://rustamxon7.github.io/To-Do-List-React/)
